@@ -21,6 +21,19 @@
         <entry key="..\:/Android Development/PrivateTransportService/app/src/main/res/layout/activity_vehicle_type.xml" value="0.2" />
         <entry key="..\:/Android Development/PrivateTransportService/app/src/main/res/layout/layout_dialogue.xml" value="0.264" />
         <entry key="..\:/Android Development/PrivateTransportService/app/src/main/res/layout/layout_dialogue_other.xml" value="0.2" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/drawable/ic_send.xml" value="0.2703125" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_normal_vehicle_data.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_otpverification.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_parking_details.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_parkio_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_service_selection.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_suport_assistant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/activity_vehicle_type.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/bot_message_support.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/fragment_start.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android Development/Rido_CarPool/app/src/main/res/layout/user_msg_support.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/RidoProject-master/app/src/main/res/drawable-v24/account_circle.xml" value="0.1265" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/RidoProject-master/app/src/main/res/drawable-v24/background_blue.xml" value="0.1585" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/RidoProject-master/app/src/main/res/drawable-v24/background_btn.xml" value="0.2203125" />

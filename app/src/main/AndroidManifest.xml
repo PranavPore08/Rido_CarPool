@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.privatetransportservice">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Rido"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PrivateTransportService">
+        <activity
+            android:name=".parking_details"
+            android:exported="false" />
+        <activity
+            android:name=".Parkio_Home"
+            android:exported="false"
+            android:parentActivityName=".Service_Selection" />
+        <activity
+            android:name=".edit_account"
+            android:exported="false"
+            android:parentActivityName=".BottomNavigation" />
+        <activity
+            android:name=".Service_Selection"
+            android:exported="false" />
+        <activity
+            android:name=".Gender_selection"
+            android:exported="true"
+            android:parentActivityName=".Register" />
+        <activity
+            android:name=".TypeofUser"
+            android:exported="true" />
+        <activity
+            android:name=".Vehicle_type"
+            android:exported="true" />
+        <activity
+            android:name=".SignUpMobile"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SelectRole"
+            android:exported="true" />
+        <activity
+            android:name=".OTPVerification"
+            android:exported="true"
+            android:parentActivityName=".SignUpMobile" />
+        <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Select_vehicle"
+            android:exported="true" />
+        <activity
+            android:name=".normal_vehicle_data"
+            android:exported="true" />
+        <activity
+            android:name=".other_vehicle_data"
+            android:exported="true" />
+        <activity
+            android:name=".BottomNavigation"
+            android:exported="true"
+            android:parentActivityName=".Service_Selection" />
+    </application>
+
+</manifest>

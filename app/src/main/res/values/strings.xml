@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrivateTransportService</string>
+    <string-array name="city_spinner">
+        <item>Select</item>
+        <item>Sangli</item>
+        <item>Pune</item>
+        <item>Satara</item>
+        <item>Aurangabad</item>
+        <item>Mumbai</item>
+        <item>Kolhapur</item>
+        <item>Ahemadnagar</item>
+    </string-array>
+</resources>
